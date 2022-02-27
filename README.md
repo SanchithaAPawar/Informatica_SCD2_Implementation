@@ -8,4 +8,4 @@ The icici bank want to use the customer data to check the eligibility of getting
 
 # Source Data in MySQL Server
 
-![alt_text](?raw=true)
+![alt_text](https://github.com/SanchithaAPawar/Informatica_SCD2_Implementation/blob/main/SourceData.png?raw=true)
